@@ -6,11 +6,16 @@ that they can use to keep track of the many projects on which they work.
 
 
 ## Motivation
-I have taken on this project since I have experience in JAVA from my food Quick Delivery project. To complete the task I have used JAVA for the functions of the program such as adding, updating, and deleting projects. For storage, I used MySql to store the projects. To connect all of this I used JDBC.
+I have taken on this project since I have experience in JAVA from my food Quick Delivery project. To complete the task I have used JAVA for the functions of the program such as adding, updating, and deleting projects. For storage, I used MySql to store the projects. To connect all of this I used Java Database Connectivity.
 
 
 
 ## Features
+This project was made using:
+- JAVA
+- MySQL
+- JDBC - Java Database Connectivity
+
 This system has the following features:
 - Read and write data about projects and people associated with projects from your database.
 - Capture information about new projects and add these to the database.
