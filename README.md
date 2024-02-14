@@ -16,6 +16,7 @@ This project was made using:
 - MySQL
 - JDBC - Java Database Connectivity
 - Relational database - created using normalisation
+- included an ERD Diagram to show the relationships between tables
 
 This system has the following features:
 - Read and write data about projects and people associated with projects from your database.
